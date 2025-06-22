@@ -148,122 +148,152 @@ var app = (function () {
             url: "https://soundcloud.com/hollywoodundead/wild-in-these-streets",
             answer: "Hollywood Undead - Wild In These Streets",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/hollywood-forever",
             answer: "Hollywood Undead - Hollywood Forever",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/chaos",
             answer: "Hollywood Undead - CHAOS",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/idol-feat-tech-n9ne",
             answer: "Hollywood Undead - Idol",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/monsters-feat-killstation",
             answer: "Hollywood Undead - Monsters",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/comin-thru-the-stereo-feat",
             answer: "Hollywood Undead - Comin' Thru The Stereo",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/worth-it",
             answer: "Hollywood Undead - Worth It",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/ghost-out",
             answer: "Hollywood Undead - Ghost Out",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/medicate",
             answer: "Hollywood Undead - Medicate",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/unholy",
             answer: "Hollywood Undead - Unholy",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/gonna-be-ok",
             answer: "Hollywood Undead - Gonna Be OK",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/heart-of-a-champion",
             answer: "Hollywood Undead - Heart Of A Champion",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/coming-home",
             answer: "Hollywood Undead - Coming Home",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/nightmare",
             answer: "Hollywood Undead - Nightmare",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/killin-it",
             answer: "Hollywood Undead - Killin' It",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/second-chances",
             answer: "Hollywood Undead - Second Chances",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/enemy",
             answer: "Hollywood Undead - Enemy",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/upside-down",
             answer: "Hollywood Undead - Upside Down",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/empire",
             answer: "Hollywood Undead - Empire",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/time-bomb",
             answer: "Hollywood Undead - Time Bomb",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/alreadydead",
             answer: "Hollywood Undead - Already Dead",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/bloody-nose",
             answer: "Hollywood Undead - Bloody Nose",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/something-to-believe",
             answer: "Hollywood Undead - Something to Believe",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/live-fast-die-young",
             answer: "Hollywood Undead - Live Fast, Die Young",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/another-level",
             answer: "Hollywood Undead - Another Level",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/gotta-let-go",
             answer: "Hollywood Undead - Gotta Let Go",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/black-cadillac-feat-b-real",
             answer: "Hollywood Undead - Black Cadillac",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/nobodys-watching",
             answer: "Hollywood Undead - Nobody's Watching",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/pray-put-em-in-the-dirt",
             answer: "Hollywood Undead - Pray - put em in the dirt",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/cashed-out",
             answer: "Hollywood Undead - Cashed Out",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/bang-bang",
             answer: "Hollywood Undead - Bang Bang",
@@ -273,90 +303,112 @@ var app = (function () {
             url: "https://soundcloud.com/hollywoodundead/riot",
             answer: "Hollywood Undead - Riot",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/your-life",
             answer: "Hollywood Undead - Your Life",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/ghost-beach",
             answer: "Hollywood Undead - Ghost Beach",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/bad-moon",
             answer: "Hollywood Undead - Bad Moon",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/broken-record",
             answer: "Hollywood Undead - Broken Record",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/we-own-the-night",
             answer: "Hollywood Undead - We Own The Night",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/renegade",
             answer: "Hollywood Undead - Renegade",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/whatever-it-takes",
             answer: "Hollywood Undead - Whatever It Takes",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/california-dreaming",
             answer: "Hollywood Undead - California Dreaming",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/black-dahlia",
             answer: "Hollywood Undead - Black Dahlia",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/sesl-your-soul",
             answer: "Hollywood Undead - Sell Your Soul",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/hear-me-now",
             answer: "Hollywood Undead - Hear Me Now",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/been-to-hell",
             answer: "Hollywood Undead - Been To Hell",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/bullet",
             answer: "Hollywood Undead - Bullet",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/lion",
             answer: "Hollywood Undead - Lion",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/we-are",
             answer: "Hollywood Undead - We Are",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/day-of-the-dead",
             answer: "Hollywood Undead - Day Of The Dead",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/party-by-myself-1",
             answer: "Hollywood Undead - Party By Myself",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/dark-places-1",
             answer: "Hollywood Undead - Dark Places",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/take-me-home",
             answer: "Hollywood Undead - Take Me Home",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/gravity",
             answer: "Hollywood Undead - Gravity",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/does-everybody-in-the-world-1",
             answer: "Hollywood Undead - Does Everybody In The World Have To Die",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/disease-1",
             answer: "Hollywood Undead - Disease",
@@ -380,310 +432,387 @@ var app = (function () {
             url: "https://soundcloud.com/hollywoodundead/from-the-ground-1",
             answer: "Hollywood Undead - From The Ground",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/rain",
             answer: "Hollywood Undead - Rain",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/outside",
             answer: "Hollywood Undead - Outside",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/medicine",
             answer: "Hollywood Undead - Medicine",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/one-more-bottle-1",
             answer: "Hollywood Undead - One More Bottle",
           },
+          
           {
             url: "https://soundcloud.com/alex-soule/hollywood-undead-dead-in-ditches#t=0:01",
             answer: "Hollywood Undead - Dead In Ditches",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/undead-album-version-explicit",
             answer: "Hollywood Undead - Undead",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/everywhere-i-go",
             answer: "Hollywood Undead - Everywhere I Go",
           },
+          
           {
             url: "https://soundcloud.com/icon1337/hollywood-undead-no-other-place-lyrics-version-20",
             answer: "Hollywood Undead - No Other Place",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/no-other-place-album-version",
             answer: "Hollywood Undead - Young",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/this-love-this-hate-album",
             answer: "Hollywood Undead - This Love, This Hate",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/california-album-version",
             answer: "Hollywood Undead - California",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/war-child",
             answer: "Hollywood Undead - War Child",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/comin-in-hot-1",
             answer: "Hollywood Undead - Comin' In Hot",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/i-dont-wanna-die",
             answer: "Hollywood Undead - I Don't Wanna Die",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/levitate-1",
             answer: "Hollywood Undead - Levitate",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/s-c-a-v-a",
             answer: "Hollywood Undead - S.C.A.V.A",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/new-day",
             answer: "Hollywood Undead - New Day",
           },
+          
           {
             url: "https://soundcloud.com/undead-lyrics/scene-for-dummies",
             answer: "Hollywood Undead - Scene For Dummies",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/ghost",
             answer: "Hollywood Undead - Ghost",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/party-by-myself-1",
             answer: "Hollywood Undead - Party By Myself",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/dark-places-1",
             answer: "Hollywood Undead - Dark Places",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/how-we-roll-1",
             answer: "Hollywood Undead - How We Roll",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/ill-be-there",
             answer: "Hollywood Undead - I'll Be There",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/guzzle-guzzle",
             answer: "Hollywood Undead - Guzzle, Guzzle",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/delish-1",
             answer: "Hollywood Undead - Delish",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/believe-1",
             answer: "Hollywood Undead - Believe",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/pigskin-1",
             answer: "Hollywood Undead - Pigskin",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/kill-everyone-1",
             answer: "Hollywood Undead - Kill Everyone",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/up-in-smoke-1",
             answer: "Hollywood Undead - Up In Smoke",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/another-way-out",
             answer: "Hollywood Undead - Another Way Out",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/the-kids",
             answer: "Hollywood Undead - The Kids",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/le-deux",
             answer: "Hollywood Undead - Le Deux",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/the-natives",
             answer: "Hollywood Undead - The Natives",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/circles",
             answer: "Hollywood Undead - Circles",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/bitches",
             answer: "Hollywood Undead - Bitches",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/the-loss",
             answer: "Hollywood Undead - The Loss",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/knife-called-lust",
             answer: "Hollywood Undead - Knife Called Lust",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/pain",
             answer: "Hollywood Undead - Pain",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/lump-your-head",
             answer: "Hollywood Undead - Lump Your Head",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/apologize-1",
             answer: "Hollywood Undead - Apologize",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/tendencies-1",
             answer: "Hollywood Undead - Tendencies",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/glory-1",
             answer: "Hollywood Undead - Glory",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/gangsta-sexy-1",
             answer: "Hollywood Undead - Gangsta Sexy",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/lights-out-1",
             answer: "Hollywood Undead - Lights Out",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/pour-me-1",
             answer: "Hollywood Undead - Pour Me",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/my-town-1",
             answer: "Hollywood Undead - My Town",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/mother-murder",
             answer: "Hollywood Undead - Mother Murder",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/coming-back-down",
             answer: "Hollywood Undead - Coming Back Down",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/el-urgencia-1",
             answer: "Hollywood Undead - El Urgencia",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/tear-it-up-1",
             answer: "Hollywood Undead - Tear It Up",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/dove-and-grenade-1",
             answer: "Hollywood Undead - Dove And Grenade",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/bottle-and-a-gun",
             answer: "Hollywood Undead - Bottle And A Gun",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/undead-album-version-explicit",
             answer: "Hollywood Undead - Undead",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/the-diary-album-version",
             answer: "Hollywood Undead - The Diary",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/city-album-version-explicit",
             answer: "Hollywood Undead - City",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/no-5-album-version-explicit",
             answer: "Hollywood Undead - No. 5",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/pimpin-album-version-explicit",
             answer: "Hollywood Undead - Pimpin'",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/paradise-lost-album-version",
             answer: "Hollywood Undead - Paradise Lost",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/no-other-place-album-version",
             answer: "Hollywood Undead - No Other Place",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/christmas-in-hollywood",
             answer: "Hollywood Undead - Christmas In Hollywood",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/street-dreams",
             answer: "Hollywood Undead - Street Dreams",
           },
+          
           {
             url: "https://soundcloud.com/dani-301/hollywood-undead-fuck-the",
             answer: "Hollywood Undead - F*ck The World",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/usual-suspects",
             answer: "Hollywood Undead - Usual Suspects",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/city-of-the-dead",
             answer: "Hollywood Undead - City Of The Dead",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/world-war-me",
             answer: "Hollywood Undead - World War Me",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/ruin-my-life",
             answer: "Hollywood Undead - Ruin My Life",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/hourglass",
             answer: "Hollywood Undead - Hourglass",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/go-to-war",
             answer: "Hollywood Undead - Go To War",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/alone-at-the-top",
             answer: "Hollywood Undead - Alone At The Top",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/dangerous",
             answer: "Hollywood Undead - Dangerous",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/happy-when-i-die",
             answer: "Hollywood Undead - Happy When I Die",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/reclaim",
             answer: "Hollywood Undead - Reclaim",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/alright",
             answer: "Hollywood Undead - Alright",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/evil",
             answer: "Hollywood Undead - Evil",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/salvation",
             answer: "Hollywood Undead - Salvation",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/first-class-suicide",
             answer: "Hollywood Undead - First Class Suicide",
           },
+          
           {
             url: "https://soundcloud.com/hollywoodundead/ransom",
             answer: "Hollywood Undead - Ransom",
