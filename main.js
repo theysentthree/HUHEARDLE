@@ -636,82 +636,66 @@ var app = (function () {
             url: "https://soundcloud.com/hollywoodundead/city-of-the-dead",
             answer: "Hollywood Undead - City Of The Dead",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/world-war-me",
             answer: "Hollywood Undead - World War Me",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/ruin-my-life",
             answer: "Hollywood Undead - Ruin My Life",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/hourglass",
             answer: "Hollywood Undead - Hourglass",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/go-to-war",
             answer: "Hollywood Undead - Go To War",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/alone-at-the-top",
             answer: "Hollywood Undead - Alone At The Top",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/dangerous",
             answer: "Hollywood Undead - Dangerous",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/happy-when-i-die",
             answer: "Hollywood Undead - Happy When I Die",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/reclaim",
             answer: "Hollywood Undead - Reclaim",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/alright",
             answer: "Hollywood Undead - Alright",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/evil",
             answer: "Hollywood Undead - Evil",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/salvation",
             answer: "Hollywood Undead - Salvation",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/first-class-suicide",
             answer: "Hollywood Undead - First Class Suicide",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/ransom",
             answer: "Hollywood Undead - Ransom",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/break-on-through",
             answer: "Hollywood Undead - Break On Through",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/house-of-mirrors-feat-jelly",
             answer: "Hollywood Undead, Jelly Roll - House Of Mirrors",
           },
-
           {
             url: "https://soundcloud.com/hollywoodundead/i-am-1",
             answer: "Hollywood Undead - I Am",
