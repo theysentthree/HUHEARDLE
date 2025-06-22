@@ -3,7 +3,7 @@ var app = (function () {
   var startDate = "2010-01-01";
   const Cn = ue([
       "Hollywood Undead - Wild In These Streets",
-      "Hollywood Undead - Hollywood Forever"
+      "Hollywood Undead - Hollywood Forever",
       "Hollywood Undead - CHAOS",
       "Hollywood Undead - Idol",
       "Hollywood Undead - Monsters",
