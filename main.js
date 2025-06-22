@@ -3,6 +3,7 @@ var app = (function () {
   var startDate = "2010-01-01";
   const Cn = ue([
       "Hollywood Undead - Wild In These Streets",
+      "Hollywood Undead - Hollywood Forever"
       "Hollywood Undead - CHAOS",
       "Hollywood Undead - Idol",
       "Hollywood Undead - Monsters",
@@ -146,6 +147,10 @@ var app = (function () {
           {
             url: "https://soundcloud.com/hollywoodundead/wild-in-these-streets",
             answer: "Hollywood Undead - Wild In These Streets",
+          },
+          {
+            url: "https://soundcloud.com/hollywoodundead/hollywood-forever",
+            answer: "Hollywood Undead - Hollywood Forever",
           },
           {
             url: "https://soundcloud.com/hollywoodundead/chaos",
@@ -350,8 +355,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/hollywoodundead/does-everybody-in-the-world-1",
-            answer:
-              "Hollywood Undead - Does Everybody In The World Have To Die",
+            answer: "Hollywood Undead - Does Everybody In The World Have To Die",
           },
           {
             url: "https://soundcloud.com/hollywoodundead/disease-1",
