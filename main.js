@@ -4478,7 +4478,7 @@ var app = (function () {
             artist +
             ' songs.</p> \n\n<p class="mb-3">Each Heardle is randomly chosen from ' +
             artist +
-            '\'s discography.</p> \n\n\n\n <p class="mb-3">This Heardle is 100% fan-made and is not associated with SCNFDM\'s HUrdle.</p> \n\n\n\n  <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://www.netlify.com/">Netlify</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
+            '\'s discography using Soundcloud.</p> \n\n\n\n <p class="mb-3">This Heardle is 100% fan-made and is not associated with SCNFDM\'s HUrdle.</p> \n\n\n\n  <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://www.netlify.com/">Netlify</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
           M(n, "class", "text");
       },
       m(e, t) {
@@ -5284,7 +5284,7 @@ var app = (function () {
                 ? (t += "⬛️")
                 : (t += "🟥")
               : (t += "⬜️");
-          let o = e + "\n\n" + t + "\n\nhttps://chvrches-heardle.glitch.me/";
+          let o = e + "\n\n" + t + "\n\nhttps://huheardle.netlify.app";
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
