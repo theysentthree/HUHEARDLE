@@ -4504,7 +4504,7 @@ var app = (function () {
         (n = w("div")),
           (r = w("a")),
           (r.innerHTML =
-            '<p class="mb-3"><p class="mb-3">This version of the Hollywood Undead Heardle is maintained by <a href="https://rentry.co/dearagony" title="Rentry">Jordn Avery</a>. You can support me by reporting bugs and helping with bettering this Heardle.</p>'),
+            '<p class="mb-3"><p class="mb-3">This version of the Hollywood Undead Heardle is maintained by @theysentthree. If you find a bug or want to help with the Heardle, you can contact me via Discord.</p>'),
           M(n, "class", "text");
       },
       m(e, o) {
