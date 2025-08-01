@@ -140,6 +140,7 @@ var app = (function () {
       "Hollywood Undead - Break On Through",
       "Hollywood Undead, Jelly Roll - House Of Mirrors",
       "Hollywood Undead - I Am",
+      "Hollywood Undead - Savior",
     ]),
     On = {
       subscribe: ue(
@@ -831,6 +832,11 @@ var app = (function () {
           {
             url: "https://soundcloud.com/hollywoodundead/i-am-1",
             answer: "Hollywood Undead - I Am",
+          },
+          
+          {
+            url: "https://soundcloud.com/hollywoodundead/savior",
+            answer: "Hollywood Undead - Savior",
           },
         ],
         Pn
